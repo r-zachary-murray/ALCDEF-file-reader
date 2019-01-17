@@ -1,7 +1,7 @@
-ALCDEF_read
+ALCDEF_read.py
 ==========
 
-Provides an way of easily accessing asteroid light curves from the ALCDEF, asteroid lightcurve photometry database. 
+Provides an way of easily accessing asteroid light curves from the ALCDEF Asteroid Lightcurve Photometry Database. 
 
  
 Installation
