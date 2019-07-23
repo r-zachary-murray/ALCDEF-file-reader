@@ -7,7 +7,7 @@ Provides an way of easily accessing asteroid light curves from the ALCDEF Astero
 Installation
 -----------
 
-First, download alcdef_read.py and place it in the same directory as your python script. Then import it as show in Example 1, the file used in the example is also available above. 
+First, download alcdef_read.py and place it in the same directory as your python script. Then import it as shown in Example 1, the file used in the example is also available above. 
 
 Usage
 ------------
