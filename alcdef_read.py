@@ -1,3 +1,5 @@
+## Updated for Python 3
+
 import numpy as np
 import os
 from os import listdir
